@@ -1,0 +1,17 @@
+# Variables con datos sensibles
+.env
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Configuracion local de editores y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
